@@ -1,3 +1,1 @@
-This repo contains a bash script named “cars.sh” that will help a user maintain an inventory of old cars.
- 
- The user will be presented with a menu of three options:
+Asks for cars, car model, car year, and car brand and then creates a list using the results.
